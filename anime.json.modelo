@@ -1,0 +1,11 @@
+{
+  "nome": "Nome exibido",
+  "descricao": "Frase curta para o banner da home.",
+  "sinopse": "Texto completo da página do anime.",
+  "generos": ["Ação", "Aventura"],
+  "ano": 2026,
+  "status": "Em andamento",
+  "classificacao": "12",
+  "destaque": true,
+  "publicado": true
+}

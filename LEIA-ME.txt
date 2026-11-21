@@ -1,0 +1,14 @@
+Uma pasta por anime. Exemplo:
+
+animes/
+  Meu Anime/
+    banner.jpg          (imagem larga do topo)
+    capa.jpg            (poster vertical dos cards)
+    anime.json          (opcional: sinopse, generos, ano, status...)
+    Temporada 1/
+      01 - Título.mp4   (número no início = ordem do episódio)
+      01 - Título.jpg   (opcional: miniatura, mesmo nome do vídeo)
+      01 - Título.txt   (opcional: descrição do episódio)
+    Temporada 2/
+      ...
+Vídeos: MP4 (H.264/AAC), WebM. Máximo de 100 MB por arquivo no GitHub.
